@@ -1,0 +1,91 @@
+
+@media screen and (max-width:1370px){
+    .music-offical-name h1{
+        margin-left: 10%;
+        font-size: 1rem;
+    }
+    .music-offical-name p{
+        font-size: 1rem;
+    }
+    .music-offical-information p{
+        margin-left: 10%;
+        font-size: 0.7rem;
+    }
+    .music-offical-track{
+        margin-left: 10%;
+        font-size: 1rem;
+    }
+}
+@media screen and (max-width:1370px){
+    .music-offical-name h1{
+        margin-left: 25%;
+        font-size: 1rem;
+    }
+    .music-offical-information p{
+        margin-left: 25%;
+        font-size: 0.7rem;
+    }
+    .music-offical-track{
+        margin-left: 25%;
+        font-size: 1rem;
+    }
+    .music-offical-play button{
+        width: 7rem;
+        font-size: 1rem;
+        margin-left: 20%;
+    }
+}
+@media screen and (max-width:1100px)
+{
+    .main2-section-container{
+        display: block;
+    }
+    .part1-container{
+        width: 80%;
+    }
+    .part2-container{
+        width: 80%;
+    }
+    .music-offical-play button{
+        width: 6rem;
+        margin-left:5%;
+        font-size: 1.2rem;
+    }
+    .music-offical-play p{
+        font-size: 1.4rem;
+    }
+    .music-offical-track{
+        font-size: 1.2rem;
+    }
+    .music-offical-name p{
+        font-size: 1rem;
+    }
+    .music-offical-information p{
+        font-size: 1rem;
+    }
+}
+@media screen and (max-width:815px)
+{
+    .part1-container{
+        width: 100%;
+    }
+    .part2-container{
+        width: 90%;
+    }
+    .music-offical-information p{
+        font-size: 0.8rem;
+        margin-left: 40%;
+    }
+    .music-offical-play button{
+        width: 4rem;
+        margin-left:45%;
+        font-size: 0.7rem;
+    }
+    .music-offical-name h1{
+        margin-left: 40%;
+    }
+    .music-offical-track{
+        margin-left: 45%;
+        font-size: 0.7rem;
+    }
+}

@@ -1,0 +1,88 @@
+/* Media Query Part */
+@media screen and (max-width:992px) 
+{
+    .header-section .music-logo .fav{
+        padding-left: 5%;
+    }
+    .header-section .search-box-container{
+        width: 25%;
+    }
+}
+@media screen and (max-width:844px) 
+{
+    .header-section .music-logo .fav{
+        padding-left: 3%;
+        font-size: 1.2rem;
+    }
+    .header-section .search-box-container{
+        width: 30%;
+    }
+    .header-section .profile-container img{
+        padding-left: 20%;
+    }
+}
+
+@media screen and (max-width:650px) 
+{
+    .header-section .music-logo .fav{
+        padding-left: 3%;
+        font-size: 1rem;
+    }
+    .header-section .search-box-container{
+        width: 30%;
+    }
+    .header-section .search-box-container input{
+        width: 8rem;
+    }
+    .header-section .profile-container{
+        width: 15%;
+    }
+    .header-section .profile-container img{
+        padding-left: 15%;
+    }
+    .Carousel-Section{
+        height:20vh;
+    }
+    .main-part-container{
+        display: block;
+    }
+    .main-part-container .queue-section{
+        width: 90%;
+    }
+    .main-part-container .music-section{
+        width: 90%;
+    }
+    .main-part-container .music-section .music-genre-section .music-genre p{
+        font-size: 1rem;
+    }
+    .main-part-container .music-section .latest-english-section .english-name-container .english-name p{
+        font-size: 0.7rem;
+    }
+    .main-part-container .music-section .latest-hindi-section .hindi-name-container .hindi-name p{
+        font-size: 0.7rem;
+    }
+    .footer-section .footer-song-name{
+        display: none;
+    }
+
+}
+@media screen and (max-width:500px) 
+{
+    .header-section .music-logo .fav{
+        padding-left: 3%;
+        font-size: 0.8rem;
+    }
+    .header-section .search-box-container{
+        width: 30%;
+    }
+    .header-section .search-box-container input{
+        width: 6rem;
+    }
+    .header-section .profile-container{
+        width: 25%;
+    }
+    .header-section .profile-container img{
+        padding-left: 10%;
+    }
+   
+}
